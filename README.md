@@ -7,10 +7,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
+<div align="center"><img align="right" alt="GIF" src="https://github.com/vkive/vkive/blob/main/codelikeagirl.gif?raw=true" width="400" height="320" /></div> 
+
 
 ### <div align="center">I'm vanessa, I'm a hobbyist programmer who builds small apps and layouts with JS, HTML, and CSS. 👨‍💻 I enjoy programming as much as watching dramas and listening to Asian music🎵🎧📺</div>  
   
+
 
 - 👀 I’m interested in create desing, programs, dogs, music, netflix, etc....  
   
