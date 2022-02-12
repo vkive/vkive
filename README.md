@@ -77,6 +77,11 @@ You can click the Preview link to take a look at your changes.
 
 </details>
   
+  <br/>  
+  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=vanesa_zi-96&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vanesa_zi-96&cover_image=true&theme=default&bar_color=28ade6&bar_color_cover=true" /></div>  
+  
+  <br/>  
+  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vkive&&style=flat-square" align="center" />
 </div> 
